@@ -1,4 +1,4 @@
 print("hiisaa")
-print("start")
+print("1")
 print("stop")
 print("ddfh")
