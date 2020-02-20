@@ -1,4 +1,4 @@
 print("hiisaa")
-print("1")
-
 print("palash")
+
+print("deep")
